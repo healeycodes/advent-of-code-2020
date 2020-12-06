@@ -41,4 +41,4 @@ function five(input) {
     }
 }
 
-module.exports = five;
+module.exports = five

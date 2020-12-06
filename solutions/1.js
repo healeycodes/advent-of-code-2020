@@ -25,4 +25,4 @@ function one(input) {
     }
 }
 
-module.exports = one;
+module.exports = one

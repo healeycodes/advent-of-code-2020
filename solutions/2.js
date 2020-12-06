@@ -35,4 +35,4 @@ function two(input) {
     return answers
 }
 
-module.exports = two;
+module.exports = two

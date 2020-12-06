@@ -52,4 +52,4 @@ function four(input) {
     return answers
 }
 
-module.exports = four;
+module.exports = four

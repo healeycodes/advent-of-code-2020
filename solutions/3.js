@@ -24,4 +24,4 @@ function three(input) {
     return answers
 }
 
-module.exports = three;
+module.exports = three

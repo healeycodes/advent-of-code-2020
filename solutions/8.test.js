@@ -1,7 +1,7 @@
 const eight = require('./8');
 
 test('Answers correctly', () => {
-  expect(eight(input)).toStrictEqual([1727]);
+  expect(eight(input)).toStrictEqual([1727, 552]);
 });
 
 const input = `acc +40
